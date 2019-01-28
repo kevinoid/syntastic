@@ -29,7 +29,7 @@ let s:DEFAULTS = {
 let s:CONTENT_TYPE = {
     \ 'html': 'text/html',
     \ 'svg':  'image/svg+xml',
-    \ 'xhtm': 'application/xhtml+xml' }
+    \ 'xhtml': 'application/xhtml+xml' }
 
 " }}}1
 
